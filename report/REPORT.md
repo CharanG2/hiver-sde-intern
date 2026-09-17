@@ -2,7 +2,7 @@
 
 **Author:** Charan
 **Date:** 17 September 2026
-**Repo:** <paste your GitHub repo link here>
+**Repo:** https://github.com/CharanG2/hiver-sde-intern
 
 ---
 
